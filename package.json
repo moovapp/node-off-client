@@ -1,0 +1,22 @@
+{
+  "name": "off-client",
+  "version": "1.0.0",
+  "description": "A client library for Open Food Facts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/moovapp/node-off-client.git"
+  },
+  "keywords": [
+    "openfoodfacts",
+    "client"
+  ],
+  "author": {
+    "name": "moovapp SNC",
+    "url": "www.moov-app.com"
+  },
+  "license": "MIT"
+}
